@@ -512,3 +512,4 @@
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.SubcutaneousTests/obj/Debug/net8.0/Aram.BFF.Application.SubcutaneousTests.pdb
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.SubcutaneousTests/obj/Debug/net8.0/Aram.BFF.Application.SubcutaneousTests.genruntimeconfig.cache
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.SubcutaneousTests/obj/Debug/net8.0/ref/Aram.BFF.Application.SubcutaneousTests.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.SubcutaneousTests/obj/Debug/net8.0/Aram.BFF.Application.SubcutaneousTests.sourcelink.json

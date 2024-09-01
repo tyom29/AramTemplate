@@ -514,3 +514,4 @@
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Api.IntegrationTests/obj/Debug/net8.0/Aram.BFF.Api.IntegrationTests.pdb
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Api.IntegrationTests/obj/Debug/net8.0/Aram.BFF.Api.IntegrationTests.genruntimeconfig.cache
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Api.IntegrationTests/obj/Debug/net8.0/ref/Aram.BFF.Api.IntegrationTests.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Api.IntegrationTests/obj/Debug/net8.0/Aram.BFF.Api.IntegrationTests.sourcelink.json

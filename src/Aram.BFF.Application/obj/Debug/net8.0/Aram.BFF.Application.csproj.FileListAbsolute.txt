@@ -13,3 +13,4 @@
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/obj/Debug/net8.0/refint/Aram.BFF.Application.dll
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/obj/Debug/net8.0/Aram.BFF.Application.pdb
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/obj/Debug/net8.0/ref/Aram.BFF.Application.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/obj/Debug/net8.0/Aram.BFF.Application.sourcelink.json

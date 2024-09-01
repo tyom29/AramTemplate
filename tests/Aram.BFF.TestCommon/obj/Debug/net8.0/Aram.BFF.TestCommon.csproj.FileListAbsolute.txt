@@ -15,3 +15,4 @@
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/obj/Debug/net8.0/refint/Aram.BFF.TestCommon.dll
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/obj/Debug/net8.0/Aram.BFF.TestCommon.pdb
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/obj/Debug/net8.0/ref/Aram.BFF.TestCommon.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/obj/Debug/net8.0/Aram.BFF.TestCommon.sourcelink.json

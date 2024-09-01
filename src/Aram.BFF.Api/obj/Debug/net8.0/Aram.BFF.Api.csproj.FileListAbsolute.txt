@@ -194,3 +194,4 @@
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Api/obj/Debug/net8.0/Aram.BFF.Api.pdb
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Api/obj/Debug/net8.0/Aram.BFF.Api.genruntimeconfig.cache
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Api/obj/Debug/net8.0/ref/Aram.BFF.Api.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Api/obj/Debug/net8.0/Aram.BFF.Api.sourcelink.json

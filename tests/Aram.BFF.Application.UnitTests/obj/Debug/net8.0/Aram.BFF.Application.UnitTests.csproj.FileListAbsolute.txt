@@ -123,3 +123,4 @@
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.UnitTests/obj/Debug/net8.0/Aram.BFF.Application.UnitTests.pdb
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.UnitTests/obj/Debug/net8.0/Aram.BFF.Application.UnitTests.genruntimeconfig.cache
 /Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.UnitTests/obj/Debug/net8.0/ref/Aram.BFF.Application.UnitTests.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.UnitTests/obj/Debug/net8.0/Aram.BFF.Application.UnitTests.sourcelink.json

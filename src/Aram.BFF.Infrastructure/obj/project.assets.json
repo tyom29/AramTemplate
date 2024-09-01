@@ -4224,11 +4224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj",
+      "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj",
       "projectName": "Aram.BFF.Infrastructure",
-      "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj",
+      "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj",
       "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-      "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/",
+      "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"
@@ -4243,8 +4243,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
-              "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj"
+            "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
+              "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj"
             }
           }
         }

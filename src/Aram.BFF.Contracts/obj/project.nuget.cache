@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "72Y8/ErJDsS6fNQTkXQl+TsT2AAztl7zw9q4C7vKrLWn4sOBJCcY1SkheuY2xvwKgS8YTCeEu17hAAE4oQ6v8g==",
+  "dgSpecHash": "MrTgD/RuqNrke8zWmUMucaKftA7/D9sSiUiFvZ33OsOzKlibn0FagLzx69WeYfuPtJjgQ0Ruim6FcbvwHQWaPw==",
   "success": true,
-  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj",
+  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj",
   "expectedPackageFiles": [
     "/Users/artyomyeprikyan/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
     "/Users/artyomyeprikyan/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",

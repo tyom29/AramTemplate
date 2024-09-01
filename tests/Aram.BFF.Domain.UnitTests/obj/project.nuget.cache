@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GPPtEnq/MIeKGgIrd3yQwVwCd8qcq6vg6J7nRUdybrJQiRnnGBcSoDT6qoj/ng1CvvKms7p9rlJHODKNX6/h6g==",
+  "dgSpecHash": "X93qeq/n3O+j2XE5wzAM64TlZTxgI/o5hOttoMr22qFGvtC2d1WxEoH9+QGsMiSkSdxhRkmGaNKPv4DEcWoXJA==",
   "success": true,
-  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Domain.UnitTests/Aram.BFF.Domain.UnitTests.csproj",
+  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.Domain.UnitTests/Aram.BFF.Domain.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/artyomyeprikyan/.nuget/packages/ardalis.smartenum/8.0.0/ardalis.smartenum.8.0.0.nupkg.sha512",
     "/Users/artyomyeprikyan/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",

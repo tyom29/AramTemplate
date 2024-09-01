@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Liap7UFktZMtPEvPgXDqOplFzo/yxvCpvfRHw9CMeW33pU3iqKbky5DO5LRvjLPlDRDnUB6J153e4yZxulkWLQ==",
+  "dgSpecHash": "0acx872miwCbYKc9pu5qjqMm73Bk824LPwad9JS0s4b759KKAj56cZ7MVHDp3dP6aj3Ct39yqccE74ErHqy9Uw==",
   "success": true,
-  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj",
+  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/artyomyeprikyan/.nuget/packages/ardalis.smartenum/8.0.0/ardalis.smartenum.8.0.0.nupkg.sha512",
     "/Users/artyomyeprikyan/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",

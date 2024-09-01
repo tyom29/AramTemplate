@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {}
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {}
   },
   "projects": {
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj",
+        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj",
         "projectName": "Aram.BFF.Domain",
-        "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj",
+        "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj",
         "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-        "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/obj/",
+        "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"

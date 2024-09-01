@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "72JNoycA4g1/3B/J/dX36YaYW/BIjxrYz7ol8PgQ+VzUggBmb+J8tIGlIaRnpCrOGRd7nuzjgzjXRoYgyLplyw==",
+  "dgSpecHash": "yORXEMngtYr5c4UwplNxsg8kxpyY0QXmguspFg9v9Pj+ILRKE7UuCFDEMknhKNw14zAmRAa/YPku6V4Ujz7Anw==",
   "success": true,
-  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj",
+  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj",
   "expectedPackageFiles": [
     "/Users/artyomyeprikyan/.nuget/packages/ardalis.smartenum/8.0.0/ardalis.smartenum.8.0.0.nupkg.sha512",
     "/Users/artyomyeprikyan/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",

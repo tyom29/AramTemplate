@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QNQCJ61eyTgIyt2jdWPLoH6oCHsLz0bkZPJvf5Ses6fw1B/7n/XalZd9AC1aDfK0j8Wv1yEWoo7yNk8Hr1WcgA==",
+  "dgSpecHash": "Cz8Mt8/Wppu55RtfLIrdCdkNO80Bx7RTGFSvJPkFCRBxzkfQNUtvKJ/YRb4SYIdWEs5/Wih4WxUtn+8ltbietQ==",
   "success": true,
-  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.SubcutaneousTests/Aram.BFF.Application.SubcutaneousTests.csproj",
+  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.Application.SubcutaneousTests/Aram.BFF.Application.SubcutaneousTests.csproj",
   "expectedPackageFiles": [
     "/Users/artyomyeprikyan/.nuget/packages/ardalis.smartenum/8.0.0/ardalis.smartenum.8.0.0.nupkg.sha512",
     "/Users/artyomyeprikyan/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",

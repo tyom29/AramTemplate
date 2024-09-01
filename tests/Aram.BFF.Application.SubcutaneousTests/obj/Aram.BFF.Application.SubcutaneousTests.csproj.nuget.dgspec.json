@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.SubcutaneousTests/Aram.BFF.Application.SubcutaneousTests.csproj": {}
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.Application.SubcutaneousTests/Aram.BFF.Application.SubcutaneousTests.csproj": {}
   },
   "projects": {
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Api/Aram.BFF.Api.csproj": {
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Api/Aram.BFF.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Api/Aram.BFF.Api.csproj",
+        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Api/Aram.BFF.Api.csproj",
         "projectName": "Aram.BFF.Api",
-        "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Api/Aram.BFF.Api.csproj",
+        "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Api/Aram.BFF.Api.csproj",
         "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-        "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Api/obj/",
+        "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"
@@ -26,14 +26,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
-                "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj"
+              "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
+                "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj"
               },
-              "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj": {
-                "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj"
+              "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj": {
+                "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj"
               },
-              "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj": {
-                "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj"
+              "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj": {
+                "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj"
               }
             }
           }
@@ -101,14 +101,14 @@
         }
       }
     },
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj",
+        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj",
         "projectName": "Aram.BFF.Application",
-        "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj",
+        "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj",
         "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-        "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/obj/",
+        "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"
@@ -123,8 +123,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {
-                "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj"
+              "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {
+                "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj"
               }
             }
           }
@@ -189,14 +189,14 @@
         }
       }
     },
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj": {
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj",
+        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj",
         "projectName": "Aram.BFF.Contracts",
-        "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj",
+        "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj",
         "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-        "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/obj/",
+        "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"
@@ -253,14 +253,14 @@
         }
       }
     },
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj",
+        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj",
         "projectName": "Aram.BFF.Domain",
-        "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj",
+        "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj",
         "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-        "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/obj/",
+        "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"
@@ -325,14 +325,14 @@
         }
       }
     },
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj": {
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj",
+        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj",
         "projectName": "Aram.BFF.Infrastructure",
-        "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj",
+        "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Infrastructure/Aram.BFF.Infrastructure.csproj",
         "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-        "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/",
+        "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"
@@ -347,8 +347,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
-                "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj"
+              "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
+                "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj"
               }
             }
           }
@@ -421,14 +421,14 @@
         }
       }
     },
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.SubcutaneousTests/Aram.BFF.Application.SubcutaneousTests.csproj": {
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.Application.SubcutaneousTests/Aram.BFF.Application.SubcutaneousTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.SubcutaneousTests/Aram.BFF.Application.SubcutaneousTests.csproj",
+        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.Application.SubcutaneousTests/Aram.BFF.Application.SubcutaneousTests.csproj",
         "projectName": "Aram.BFF.Application.SubcutaneousTests",
-        "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.SubcutaneousTests/Aram.BFF.Application.SubcutaneousTests.csproj",
+        "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.Application.SubcutaneousTests/Aram.BFF.Application.SubcutaneousTests.csproj",
         "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-        "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.SubcutaneousTests/obj/",
+        "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.Application.SubcutaneousTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"
@@ -443,11 +443,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Api/Aram.BFF.Api.csproj": {
-                "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Api/Aram.BFF.Api.csproj"
+              "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Api/Aram.BFF.Api.csproj": {
+                "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Api/Aram.BFF.Api.csproj"
               },
-              "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj": {
-                "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj"
+              "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj": {
+                "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj"
               }
             }
           }
@@ -516,14 +516,14 @@
         }
       }
     },
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj": {
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj",
+        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj",
         "projectName": "Aram.BFF.TestCommon",
-        "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj",
+        "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj",
         "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-        "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/obj/",
+        "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.TestCommon/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"
@@ -538,11 +538,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
-                "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj"
+              "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
+                "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj"
               },
-              "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {
-                "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj"
+              "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {
+                "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TaNloxvpTbNEKZE2gpmgSWFw2bxa1Op1AvFU7XZM4y3ml0AmZR+WWyYtljtRTQr7MMbcby2v1a9s+YjkwslY+w==",
+  "dgSpecHash": "ihSqQu0CqdD0gMBoiAEOTjhWiEo51RtQVqBpr7Qt1BzSVpnbI/NZgBmvrR6OxwCVuCHtwXCwuoxbkDZvjTabZQ==",
   "success": true,
-  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Application.UnitTests/Aram.BFF.Application.UnitTests.csproj",
+  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.Application.UnitTests/Aram.BFF.Application.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/artyomyeprikyan/.nuget/packages/ardalis.smartenum/8.0.0/ardalis.smartenum.8.0.0.nupkg.sha512",
     "/Users/artyomyeprikyan/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",

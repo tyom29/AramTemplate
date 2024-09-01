@@ -658,11 +658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj",
+      "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj",
       "projectName": "Aram.BFF.TestCommon",
-      "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj",
+      "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj",
       "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-      "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/obj/",
+      "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.TestCommon/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"
@@ -677,11 +677,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
-              "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj"
+            "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj": {
+              "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Application/Aram.BFF.Application.csproj"
             },
-            "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {
-              "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj"
+            "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj": {
+              "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj"
             }
           }
         }

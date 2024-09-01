@@ -1749,11 +1749,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Domain.UnitTests/Aram.BFF.Domain.UnitTests.csproj",
+      "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.Domain.UnitTests/Aram.BFF.Domain.UnitTests.csproj",
       "projectName": "Aram.BFF.Domain.UnitTests",
-      "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Domain.UnitTests/Aram.BFF.Domain.UnitTests.csproj",
+      "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.Domain.UnitTests/Aram.BFF.Domain.UnitTests.csproj",
       "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-      "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.Domain.UnitTests/obj/",
+      "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.Domain.UnitTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"
@@ -1768,8 +1768,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj": {
-              "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj"
+            "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj": {
+              "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/tests/Aram.BFF.TestCommon/Aram.BFF.TestCommon.csproj"
             }
           }
         }

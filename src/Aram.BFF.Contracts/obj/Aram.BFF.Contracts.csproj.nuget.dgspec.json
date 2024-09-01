@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj": {}
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj": {}
   },
   "projects": {
-    "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj": {
+    "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj",
+        "projectUniqueName": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj",
         "projectName": "Aram.BFF.Contracts",
-        "projectPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj",
+        "projectPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/Aram.BFF.Contracts.csproj",
         "packagesPath": "/Users/artyomyeprikyan/.nuget/packages/",
-        "outputPath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/obj/",
+        "outputPath": "/Users/artyomyeprikyan/Documents/Development/AramTemplate/src/Aram.BFF.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/artyomyeprikyan/.nuget/NuGet/NuGet.Config"

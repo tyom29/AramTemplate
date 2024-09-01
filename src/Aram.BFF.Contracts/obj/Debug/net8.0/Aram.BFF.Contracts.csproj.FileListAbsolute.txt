@@ -1,0 +1,12 @@
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/bin/Debug/net8.0/Aram.BFF.Contracts.deps.json
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/bin/Debug/net8.0/Aram.BFF.Contracts.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/bin/Debug/net8.0/Aram.BFF.Contracts.pdb
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/obj/Debug/net8.0/Aram.BFF.Contracts.csproj.AssemblyReference.cache
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/obj/Debug/net8.0/Aram.BFF.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/obj/Debug/net8.0/Aram.BFF.Contracts.AssemblyInfoInputs.cache
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/obj/Debug/net8.0/Aram.BFF.Contracts.AssemblyInfo.cs
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/obj/Debug/net8.0/Aram.BFF.Contracts.csproj.CoreCompileInputs.cache
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/obj/Debug/net8.0/Aram.BFF.Contracts.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/obj/Debug/net8.0/refint/Aram.BFF.Contracts.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/obj/Debug/net8.0/Aram.BFF.Contracts.pdb
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Contracts/obj/Debug/net8.0/ref/Aram.BFF.Contracts.dll

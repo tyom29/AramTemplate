@@ -1,0 +1,17 @@
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/bin/Debug/net8.0/Aram.BFF.Infrastructure.deps.json
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/bin/Debug/net8.0/Aram.BFF.Infrastructure.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/bin/Debug/net8.0/Aram.BFF.Infrastructure.pdb
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/bin/Debug/net8.0/Aram.BFF.Application.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/bin/Debug/net8.0/Aram.BFF.Domain.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/bin/Debug/net8.0/Aram.BFF.Application.pdb
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/bin/Debug/net8.0/Aram.BFF.Domain.pdb
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/Debug/net8.0/Aram.BFF.Infrastructure.csproj.AssemblyReference.cache
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/Debug/net8.0/Aram.BFF.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/Debug/net8.0/Aram.BFF.Infrastructure.AssemblyInfoInputs.cache
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/Debug/net8.0/Aram.BFF.Infrastructure.AssemblyInfo.cs
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/Debug/net8.0/Aram.BFF.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/Debug/net8.0/Aram.BFF.E7BDC5FB.Up2Date
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/Debug/net8.0/Aram.BFF.Infrastructure.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/Debug/net8.0/refint/Aram.BFF.Infrastructure.dll
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/Debug/net8.0/Aram.BFF.Infrastructure.pdb
+/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Infrastructure/obj/Debug/net8.0/ref/Aram.BFF.Infrastructure.dll

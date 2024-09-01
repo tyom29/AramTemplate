@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "72JNoycA4g1/3B/J/dX36YaYW/BIjxrYz7ol8PgQ+VzUggBmb+J8tIGlIaRnpCrOGRd7nuzjgzjXRoYgyLplyw==",
+  "success": true,
+  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Application/Aram.BFF.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/artyomyeprikyan/.nuget/packages/ardalis.smartenum/8.0.0/ardalis.smartenum.8.0.0.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/microsoft.identitymodel.abstractions/8.0.2/microsoft.identitymodel.abstractions.8.0.2.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.0.2/microsoft.identitymodel.jsonwebtokens.8.0.2.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/microsoft.identitymodel.logging/8.0.2/microsoft.identitymodel.logging.8.0.2.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/microsoft.identitymodel.tokens/8.0.2/microsoft.identitymodel.tokens.8.0.2.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/oneof/3.0.216/oneof.3.0.216.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/throw/1.4.0/throw.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

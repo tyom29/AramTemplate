@@ -1,0 +1,8 @@
+{
+  "Aram.BFF.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/artyomyeprikyan\/Documents\/Development\/ARAM_Template\/src\/Aram.BFF.Api",
+  "Aram.BFF.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/artyomyeprikyan\/Documents\/Development\/ARAM_Template\/src\/Aram.BFF.Application",
+  "Aram.BFF.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/artyomyeprikyan\/Documents\/Development\/ARAM_Template\/src\/Aram.BFF.Contracts",
+  "Aram.BFF.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/artyomyeprikyan\/Documents\/Development\/ARAM_Template\/src\/Aram.BFF.Domain",
+  "Aram.BFF.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/artyomyeprikyan\/Documents\/Development\/ARAM_Template\/src\/Aram.BFF.Infrastructure",
+  "Aram.BFF.TestCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/artyomyeprikyan\/Documents\/Development\/ARAM_Template\/tests\/Aram.BFF.TestCommon"
+}

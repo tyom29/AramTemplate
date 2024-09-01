@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Aram.BFF.Api.props" />
+</Project>

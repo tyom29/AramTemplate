@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "t4qaE1v0cvy9/vvUo0vm9nzKwj2f+VYjUDInIiBUsqIVgqT8xJM9H1fkTAewoAQuWeURYQOy5vK+9uTDqn0ORg==",
+  "success": true,
+  "projectFilePath": "/Users/artyomyeprikyan/Documents/Development/ARAM_Template/src/Aram.BFF.Domain/Aram.BFF.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/artyomyeprikyan/.nuget/packages/ardalis.smartenum/8.0.0/ardalis.smartenum.8.0.0.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/oneof/3.0.216/oneof.3.0.216.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/artyomyeprikyan/.nuget/packages/throw/1.4.0/throw.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

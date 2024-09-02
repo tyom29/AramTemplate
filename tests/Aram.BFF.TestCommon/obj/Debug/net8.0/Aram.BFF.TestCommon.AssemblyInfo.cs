@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aram.BFF.TestCommon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ad2730d61517c7124ca595ba35a203f37259951")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+778040c997fa919e407ea7d21867d6634a847b9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aram.BFF.TestCommon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aram.BFF.TestCommon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -219,6 +219,32 @@ ServiceFabricBackup/
 *.ldf
 *.ndf
 
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+
+# Ignore NuGet v3's project.json files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore NuGet props and targets files
+*.nuget.props
+*.nuget.targets
+
+# Ignore NuGet spec files
+*.nuspec
+
+# Ignore global packages, cache, and logs directories for NuGet
+**/packages/
+**/nuget/
+.nuget/
+
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout

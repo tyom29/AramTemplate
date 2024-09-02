@@ -1,4 +1,6 @@
 using Aram.BFF.Application.Common.Behaviors;
+using Aram.BFF.Application.Common.Interfaces;
+
 using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
 

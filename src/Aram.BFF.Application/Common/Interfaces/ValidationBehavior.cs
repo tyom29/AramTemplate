@@ -1,6 +1,8 @@
 using ErrorOr;
+
 using FluentValidation;
 using FluentValidation.Results;
+
 using MediatR;
 
 namespace Aram.BFF.Application.Common.Behaviors;

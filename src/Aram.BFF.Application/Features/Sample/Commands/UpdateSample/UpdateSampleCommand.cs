@@ -1,4 +1,5 @@
 using ErrorOr;
+
 using MediatR;
 
 namespace Aram.BFF.Application.Features.Sample.Commands.UpdateSample;

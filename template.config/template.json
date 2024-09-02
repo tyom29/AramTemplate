@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "tyom29",
+  "classifications": [
+    "Clean Architecture",
+    "ASP.NET",
+    "ASP.NET Core",
+    "Web API",
+    "Project Template",
+    "Aram Template"
+  ],
+  "name": "Aram Architecture Template",
+  "shortName": "aram-template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "identity": "Aram.CleanArchitecture.Template",
+  "description": ".NET 8 Clean Architecture Template",
+  "sourceName": "Aram Architecture Template",
+  "sources": [
+    {
+      "source": "./",
+      "target": "./",
+      "exclude": [
+        ".git/**",
+        ".gitignore",
+        ".template.config/**/*"
+      ]
+    }
+  ]
+}
